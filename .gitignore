@@ -1,0 +1,19 @@
+*.class
+*.log
+
+# Gradle
+build/
+.gradle/
+
+# Android specific
+/local.properties
+fidesmo-android-signing.keystore
+
+# Android Studio IDE
+.idea
+*.iml
+*.iws
+*.ipr
+
+# Ant
+uiautomator/bin
